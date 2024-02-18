@@ -1,18 +1,7 @@
 ﻿# P0001-Electron-Organizer
 
- | <img src="https://github.com/Estudos-T0117/P0001-Electron-Organizer/assets/104631043/220b7d51-5666-49a0-bd65-566952bbfe89" alt="Logo" width="250" style="margin-right: 10rem;"> 	| - [P0001-Electron-Organizer](#p0001-electron-organizer)<br>  - [Description](#description)<br>  - [Getting Started](#getting-started)<br>    - [Prerequisites](#prerequisites)<br>    - [Installing P0001-Electron-Organizer](#installing-p0001-electron-organizer)<br>  - [Contributing to P0001-Electron-Organizer](#contributing-to-p0001-electron-organizer)<br>  - [Contact](#contact)<br>  - [License](#license) 	|
+| <img src="https://github.com/Estudos-T0117/P0001-Electron-Organizer/assets/104631043/220b7d51-5666-49a0-bd65-566952bbfe89" alt="Logo" width="250" style="margin-right: 10rem;"> 	| [P0001-Electron-Organizer](#p0001-electron-organizer)<br>[Description](#description)<br>[Getting Started](#getting-started)<br>[Prerequisites](#prerequisites)<br>[Installing P0001-Electron-Organizer](#installing-p0001-electron-organizer)<br>[Contributing to P0001-Electron-Organizer](#contributing-to-p0001-electron-organizer)<br>[Contact](#contact)<br>[License](#license) 	|
 |---	|---	|
- 
-<img src="https://github.com/Estudos-T0117/P0001-Electron-Organizer/assets/104631043/220b7d51-5666-49a0-bd65-566952bbfe89" alt="Logo" width="250" style="margin-right: 10rem;">
-
-- [P0001-Electron-Organizer](#p0001-electron-organizer)
-  - [Description](#description)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installing P0001-Electron-Organizer](#installing-p0001-electron-organizer)
-  - [Contributing to P0001-Electron-Organizer](#contributing-to-p0001-electron-organizer)
-  - [Contact](#contact)
-  - [License](#license)
 
 ## Description
 
