@@ -1,10 +1,9 @@
 ﻿# P0001-Electron-Organizer
 
 | <img src="https://github.com/Estudos-T0117/P0001-Electron-Organizer/assets/104631043/220b7d51-5666-49a0-bd65-566952bbfe89" alt="Logo" width="250" style="margin-right: 10rem;"> 	| [P0001-Electron-Organizer](#p0001-electron-organizer)<br>[Description](#description)<br>[Getting Started](#getting-started)<br>[Prerequisites](#prerequisites)<br>[Installing P0001-Electron-Organizer](#installing-p0001-electron-organizer)<br>[Contributing to P0001-Electron-Organizer](#contributing-to-p0001-electron-organizer)<br>[Contact](#contact)<br>[License](#license) 	|
-|---	|---	|
+|---|---|
 
 ## Description
-
 
 `P0001-Electron-Organizer` is an Electron-based application designed to help you organize your daily routine. Task management, calendar integration, and note-taking are the main focus of this application, helping the user track his personal or work projects progress along with documenting it all.
 
